@@ -1,0 +1,24 @@
+{
+  "name": "tea-costumermain",
+  "version": "1.0.0",
+  "description": "Game proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TracyDeal/tea-costumermain.git"
+  },
+  "dependencies": {
+    "tea-developmain": "1.0.0",
+    "elpacho": "1.0.0",
+    "apostol": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TracyDeal/tea-costumermain/issues"
+  },
+  "homepage": "https://github.com/TracyDeal/tea-costumermain#readme"
+}
